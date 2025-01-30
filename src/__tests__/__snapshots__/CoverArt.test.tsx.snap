@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CoverArt renders correctly with valid image 1`] = `
+<div>
+  <div>
+    Not Found
+  </div>
+</div>
+`;

@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Song title reders correctly 1`] = `
+<div>
+  <div>
+    Not Found
+  </div>
+</div>
+`;

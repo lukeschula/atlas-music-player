@@ -1,0 +1,65 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Playlist renders correctly when current 1`] = `
+<div>
+  <div
+    class="w-96 flex-col mt-2.5"
+  >
+    <div
+      class="flex justify-between undefined"
+    >
+      <div
+        class="text-left"
+      >
+        <p
+          class="text-base font-bold"
+        >
+          Painted in Blue
+        </p>
+        <p
+          class="text-sky-600 font-medium"
+        >
+          Soul Canvas
+        </p>
+      </div>
+      <p
+        class="text-sky-400 font-medium text-lg mt-2"
+      >
+        5:55
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Playlist renders correctly when not current 1`] = `
+<div>
+  <div
+    class="w-96 flex-col mt-2.5"
+  >
+    <div
+      class="flex justify-between undefined"
+    >
+      <div
+        class="text-left"
+      >
+        <p
+          class="text-base font-bold"
+        >
+          Tidal Drift
+        </p>
+        <p
+          class="text-sky-600 font-medium"
+        >
+          Echoes of the Sea
+        </p>
+      </div>
+      <p
+        class="text-sky-400 font-medium text-lg mt-2"
+      >
+        8:02
+      </p>
+    </div>
+  </div>
+</div>
+`;
