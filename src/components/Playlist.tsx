@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import PlayListItem from './PlayListItem';
-import { MusicContext } from '../Context/MusicContext';
+import { MusicContext } from './Context/MusicContext';
 
 const Playlist: React.FC = () => {
   const musicContext = useContext(MusicContext);

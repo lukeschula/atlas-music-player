@@ -1,7 +1,7 @@
 import React from 'react';
 import Footer from './components/Footer';
 import MusicPlayer from './MusicPlayer';
-import MusicContextProvider from './Context/MusicContext';
+import MusicContextProvider from './components/Context/MusicContext';
 
 const App: React.FC = () => {
   return (

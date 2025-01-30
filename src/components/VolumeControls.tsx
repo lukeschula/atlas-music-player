@@ -10,7 +10,7 @@ const VolumeControls: React.FC = () => {
           type="range"
           min="0"
           max="100"
-          className="w-full cursor-pointer caret-jacarta-800 bg-jacarta-800 accent-jacarta-800 rounded-lg"
+          className="w-full cursor-pointer caret-sky-800 bg-sky-700 accent-sky-900 rounded-lg"
         />
       </div>
     </div>

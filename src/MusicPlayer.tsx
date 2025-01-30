@@ -1,6 +1,6 @@
 import Playlist from './components/Playlist';
 import CurrentlyPlaying from './components/CurrentlyPlaying';
-import { MusicContextProvider } from './Context/MusicContext';
+import { MusicContextProvider } from './components/Context/MusicContext';
 import usePlaylistData from '../src/hooks/usePlayListData';
 
 const MusicPlayer: React.FC = () => {

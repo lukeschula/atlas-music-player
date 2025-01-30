@@ -1,5 +1,5 @@
 import React, { useEffect, useState, createContext, ReactNode } from 'react'
-import SongTitle from '../components/SongTitle';
+import SongTitle from '../SongTitle';
 
 interface Song {
   id: number;

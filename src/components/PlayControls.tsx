@@ -7,7 +7,7 @@ import shuffle from '../assets/shuffle.svg';
 import inactivePrevious from '../assets/previous-inactive.svg';
 import inactiveForward from '../assets/forward-inactive.svg';
 import shuffleActive from '../assets/shuffleActive.svg';
-import { MusicContext } from '../Context/MusicContext';
+import { MusicContext } from './Context/MusicContext';
 
 const PlayControls: React.FC = () => {
   const musicContext = useContext(MusicContext);
