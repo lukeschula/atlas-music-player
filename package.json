@@ -15,6 +15,9 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
+    "@testing-library/dom": "10.4.0",
+    "@testing-library/jest-dom": "6.6.3",
+    "@testing-library/react": "16.2.0",
     "@types/node": "22.5.4",
     "@types/react": "18.2.66",
     "@types/react-dom": "18.2.22",
@@ -26,6 +29,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-react-refresh": "0.4.6",
     "jsdom": "26.0.0",
+    "msw": "2.7.0",
     "postcss": "8.4.45",
     "prettier": "3.3.3",
     "prettier-plugin-tailwindcss": "0.6.6",
